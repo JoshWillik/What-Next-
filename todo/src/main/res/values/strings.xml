@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">What Next?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="load_greeting">This is an example to-do, it has a lot of stuff and can do things weeee</string>
+
+</resources>

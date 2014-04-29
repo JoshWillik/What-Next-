@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="todoText">
+        <item name="android:textColor">#fafafa</item>
+        <item name="android:layout_margin">@dimen/app_empty_edge</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+</resources>
