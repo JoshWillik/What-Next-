@@ -1,7 +1,12 @@
 <resources>
 
-    <style name="todoText">
-        <item name="android:textColor">#fafafa</item>
+    <color name="app_base">#0099CC</color>
+    <color name="app_highlight">#33B5E5</color>
+    <color name="app_contrast">#fafafa</color>
+    <color name="dark_tone">#cccccc</color>
+    <style name="app_theme">
+        <item name="android:textColor">@color/app_contrast</item>
+        <item name="android:background">@color/app_base</item>
         <item name="android:layout_margin">@dimen/app_empty_edge</item>
         <item name="android:fontFamily">sans-serif-light</item>
     </style>

@@ -1,0 +1,12 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/app_contrast"
+    android:textColor="@color/app_highlight"
+    android:paddingTop="@dimen/drawer_padding_vertical"
+    android:paddingBottom="@dimen/drawer_padding_vertical"
+    android:paddingLeft="@dimen/drawer_padding_horizontal"
+    android:paddingRight="@dimen/drawer_padding_horizontal"
+    android:textSize="@dimen/todo_body_copy"
+    android:fontFamily="sans-serif-light"
+    android:text="Testing Layout"/>

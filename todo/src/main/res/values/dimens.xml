@@ -4,9 +4,12 @@
         name="app_empty_edge"
         >16dp</dimen>
     <dimen
-        name="todo_body_copy"
-        >24dp</dimen>
+        name="drawer_padding_vertical"
+        >12dp</dimen>
     <dimen
-        name='todo_header_copy'
-        >48dp</dimen>
+        name="drawer_padding_horizontal"
+        >@dimen/app_empty_edge</dimen>
+    <dimen
+        name="todo_body_copy"
+        >30sp</dimen>
 </resources>
